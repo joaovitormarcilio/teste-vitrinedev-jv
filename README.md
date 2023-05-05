@@ -14,4 +14,4 @@ Projeto criado para seguir o fluxo de ensino proposto pelo vídeo de ajuda.
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto executado em Maio de 2023 visando a validação de testes do fluxo de aprendizagem de upload de projetos na vitrine.dev.
